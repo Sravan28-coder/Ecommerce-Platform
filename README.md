@@ -1,1 +1,1 @@
-# Ecommerce-Platform
+E-commerce Product Recommendation System.
